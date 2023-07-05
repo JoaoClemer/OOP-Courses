@@ -1,0 +1,16 @@
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\bin\Debug\net5.0\OrientacaoAObjetos.exe
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\bin\Debug\net5.0\OrientacaoAObjetos.deps.json
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\bin\Debug\net5.0\OrientacaoAObjetos.runtimeconfig.json
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\bin\Debug\net5.0\OrientacaoAObjetos.runtimeconfig.dev.json
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\bin\Debug\net5.0\OrientacaoAObjetos.dll
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\bin\Debug\net5.0\ref\OrientacaoAObjetos.dll
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\bin\Debug\net5.0\OrientacaoAObjetos.pdb
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\obj\Debug\net5.0\OrientacaoAObjetos.csproj.AssemblyReference.cache
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\obj\Debug\net5.0\OrientacaoAObjetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\obj\Debug\net5.0\OrientacaoAObjetos.AssemblyInfoInputs.cache
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\obj\Debug\net5.0\OrientacaoAObjetos.AssemblyInfo.cs
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\obj\Debug\net5.0\OrientacaoAObjetos.csproj.CoreCompileInputs.cache
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\obj\Debug\net5.0\OrientacaoAObjetos.dll
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\obj\Debug\net5.0\ref\OrientacaoAObjetos.dll
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\obj\Debug\net5.0\OrientacaoAObjetos.pdb
+E:\Programação\DOTNET Balta\OrientacaoAObjetos\obj\Debug\net5.0\OrientacaoAObjetos.genruntimeconfig.cache
